@@ -1,0 +1,64 @@
+{
+  "name": "mandalamoskincarefin",
+  "version": "1.0.0",
+  "description": "Nuestro equipo de expertos está dedicado a proporcionarte información precisa y consejos útiles sobre cómo abordar tus preocupaciones específicas de la piel y lograr resultados duraderos",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dcornejov40/Mandalamo---skincare-fin..git"
+  },
+  "keywords": [
+    "Rutina",
+    "de",
+    "cuidado",
+    "facial",
+    "Productos",
+    "para",
+    "la",
+    "piel",
+    "Belleza",
+    "natural",
+    "Piel",
+    "radiante",
+    "Ingredientes",
+    "naturales",
+    "Anti-envejecimiento",
+    "Acné",
+    "Hidratación",
+    "Limpieza",
+    "facial",
+    "Exfoliación",
+    "Protección",
+    "solar",
+    "Mascarillas",
+    "faciales"
+  ],
+  "author": "daniela cornejo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dcornejov40/Mandalamo---skincare-fin./issues"
+  },
+  "homepage": "https://github.com/dcornejov40/Mandalamo---skincare-fin.#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "lodash": "^4.17.21",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "^4.0.3"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
