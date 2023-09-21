@@ -1,1 +1,1 @@
-# Mandalamo---skincare-fin.
+# mandalamoreact
